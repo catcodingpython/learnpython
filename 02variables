@@ -1,0 +1,5 @@
+#! /usr/bin/python
+#How to use variables in python.
+
+variable1 = "I am the text in a variable"
+print(variable1)
